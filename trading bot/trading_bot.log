@@ -1,0 +1,5 @@
+2026-03-27 23:59:29,334 | ERROR | CLI Error: API_KEY and API_SECRET must be set in environment or .env
+2026-03-28 00:06:04,378 | ERROR | CLI Error: API_KEY and API_SECRET must be set in environment or .env
+2026-03-28 00:15:16,627 | INFO | Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '0.001', 'price': None}
+2026-03-28 00:15:17,252 | ERROR | Order Error: APIError(code=-2014): API-key format invalid.
+2026-03-28 00:15:17,252 | ERROR | CLI Error: APIError(code=-2014): API-key format invalid.
